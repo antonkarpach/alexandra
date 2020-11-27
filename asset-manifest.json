@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alex/static/css/main.d01cbee4.chunk.css",
+    "main.js": "/alex/static/js/main.f4722559.chunk.js",
+    "main.js.map": "/alex/static/js/main.f4722559.chunk.js.map",
+    "runtime-main.js": "/alex/static/js/runtime-main.32a1f127.js",
+    "runtime-main.js.map": "/alex/static/js/runtime-main.32a1f127.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/alex/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.0d03675e.chunk.js": "/alex/static/js/2.0d03675e.chunk.js",
+    "static/js/2.0d03675e.chunk.js.map": "/alex/static/js/2.0d03675e.chunk.js.map",
+    "static/js/3.58fb074c.chunk.js": "/alex/static/js/3.58fb074c.chunk.js",
+    "static/js/3.58fb074c.chunk.js.map": "/alex/static/js/3.58fb074c.chunk.js.map",
+    "index.html": "/alex/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/alex/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.d01cbee4.chunk.css.map": "/alex/static/css/main.d01cbee4.chunk.css.map",
+    "static/js/2.0d03675e.chunk.js.LICENSE.txt": "/alex/static/js/2.0d03675e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a1f127.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.0d03675e.chunk.js",
+    "static/css/main.d01cbee4.chunk.css",
+    "static/js/main.f4722559.chunk.js"
+  ]
+}
